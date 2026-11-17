@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # TaskFlow Backend
 
 Backend for the TaskFlow To-Do List Management System.
@@ -254,3 +255,7 @@ This keeps the displayed list synchronized with MySQL.
 - The API validates task title, priority, status, and numeric task IDs.
 - The API does not create or modify the database schema.
 - Make sure your MySQL table uses the exact column names listed above.
+=======
+# dbms-project
+TaskFlow is a To-Do List Management System developed using React.js, Node.js, Express.js, and MySQL. It allows users to create, manage, update, delete, search, and track tasks based on priority and completion status. Developed as a DBMS mini-project to demonstrate database operations and full-stack web development.
+>>>>>>> 4d528dd397a2d77b384fab68a4d169c84e17c7ab
